@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBsDXqM81x9Ntbhg0zsopo7cMimDfBwF7Y1te0Xa4YKgSS4itHiF0Pgq5iOIFzJXBU7nyBPJYOA19hXoRoDxVw==",
+  "success": true,
+  "projectFilePath": "/Users/simoloikkanen/Library/Mobile Documents/com~apple~CloudDocs/Uusi Elämänvaihe/KareliaAMK/2024-2025/Testausmenetelmät/BMILaskuri/BMILaskuri/BMILaskuri.csproj",
+  "expectedPackageFiles": [
+    "/Users/simoloikkanen/.nuget/packages/fluentassertions/8.2.0/fluentassertions.8.2.0.nupkg.sha512",
+    "/Users/simoloikkanen/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
+    "/Users/simoloikkanen/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/simoloikkanen/.nuget/packages/xunit.analyzers/1.18.0/xunit.analyzers.1.18.0.nupkg.sha512",
+    "/Users/simoloikkanen/.nuget/packages/xunit.assert/2.9.3/xunit.assert.2.9.3.nupkg.sha512",
+    "/Users/simoloikkanen/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
+    "/Users/simoloikkanen/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "/Users/simoloikkanen/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}

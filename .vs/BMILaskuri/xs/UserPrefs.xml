@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CA5D3773-BE3B-4301-8489-C507EC462F04}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMILaskuri/BMI.cs">
+    <Files>
+      <File FileName="BMILaskuri/Tests/BMILaskuriTests.cs" Line="12" Column="1" />
+      <File FileName="BMILaskuri/BMI.cs" Line="70" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BMILaskuri" expanded="True">
+            <Node name="BMILaskuri" expanded="True">
+              <Node name="Tests" expanded="True" />
+              <Node name="BMI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BMILaskuri PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
