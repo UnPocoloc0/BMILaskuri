@@ -15,7 +15,6 @@ class Untitled
     // Tämä funktio kysyy käyttäjältä tiedot ja laskee BMI:n sen perusteella
     public static (string name, double height, double weight) AskInformation()
     {
-
         Console.Write("Anna nimesi: ");
         string name = Console.ReadLine();
 
